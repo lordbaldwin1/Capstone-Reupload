@@ -23,6 +23,10 @@ Members: Danny Love, Teresa Booth, Bruce Cosgrove, Meghan Leicht, Zachary Spring
 ## Searchbar
 ![Spacebar](https://github.com/user-attachments/assets/290203ba-e244-4c83-8a7f-5d9fa94f8593)
 
+## Filters
+![694c08c8d17a0dcf2d0d5722f22cfea6](https://github.com/user-attachments/assets/d9ba5854-c9cd-4223-a876-3a59c24b5a51)
+
+
 
 
 
